@@ -1,0 +1,51 @@
+.edu_cont{
+    display: flex; 
+}
+.edit_edu{
+  font-family:Rubik; font-size: 50px; 
+  font-weight: bolder; margin-left: 50px; margin-top: 50px;
+}
+.imgsch_cont{
+  position: relative;
+}
+.sch_img{
+  left: 50px; top: 50px;
+  width: 100px;  position:absolute;
+}
+.psch_cont{
+  position: absolute; left: 170px; top: 100px; font-family: Rubik;
+}
+.unv_img{
+  left: 50px; top: 200px;
+  width: 100px;  position:absolute;
+}
+.punv_cont{
+  position: absolute; left: 170px; top: 250px; font-family: Rubik;
+}
+.sel_img{
+  left: 50px; top: 350px;
+  width: 100px;  position:absolute;
+}
+.psel_cont{
+  position: absolute; left: 170px; top: 400px; font-family: Rubik;
+}
+.footer {
+  width: 100%;
+  background-color: #333;
+  color: white; font-family: Rubik;
+  text-align: center;
+  padding: 8px 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.footer a {
+  color: #00aced;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
