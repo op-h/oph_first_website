@@ -38,7 +38,7 @@
    position: relative;
 }
 .oph_img{
-  right: 20px; bottom: -130px;
+  right: 20px; bottom: -100px;
   width: 250px; transform: rotate(45deg); position:absolute;
 }
 .des_text{
